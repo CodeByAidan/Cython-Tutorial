@@ -90,7 +90,7 @@ Conclusion
 
 In conclusion, Cython offers a powerful way to combine the convenience of Python with the performance benefits of C. By writing code that leverages Cython's compilation capabilities, Python developers can achieve faster execution times for computationally intensive tasks.
 
-This repository serves as a proof of concept, showcasing the potential speed improvements that Cython can bring to Python code. We encourage you to explore the code provided and dive deeper into the world of Cython to harness its performance benefits for your own projects.
+This repository serves as a proof of concept, showcasing the potential speed improvements that Cython can bring to Python code. I encourage you to explore the code provided and dive deeper into the world of Cython to harness its performance benefits for your own projects.
 
 Read More
 ---------
