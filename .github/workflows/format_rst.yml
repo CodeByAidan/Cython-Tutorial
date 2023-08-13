@@ -1,0 +1,23 @@
+name: RST Autoformatter
+
+on: [push, pull_request]
+
+jobs:
+  formatting:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Run RST Autoformatter
+        uses: livxy/rst-autoformatter-action@main
+        with:
+          files: '**/*.rst'
+          commit: 'true'
+          github-username: '📚'
+          commit-message: 'Apply rstfmt formatting'
