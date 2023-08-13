@@ -45,7 +45,7 @@ To run the experiment yourself, follow these steps:
 
 .. code-block:: bash
 
-    git clone Cython-Tutorial
+    git clone https://github.com/CodeByAidan/Cython-Tutorial
 
 2. Navigate to the root directory of the repository.
 
