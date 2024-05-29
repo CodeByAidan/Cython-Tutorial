@@ -99,4 +99,4 @@ Read More
 - `Cython on GitHub <https://github.com/cython/cython>`_
 - `Cython on PyPI <https://pypi.org/project/Cython/>`_
 - `Differences between Python and CPython (Jython, IronPython, PyPy) <https://stackoverflow.com/questions/17130975/python-vs-cpython>`_
-- `Dag Sverre Seljebotn. "Fast numerical computations with Cython." Proceedings of the 8th Python in Science Conference (SciPy 2009). <https://conference.scipy.org/proceedings/scipy2009/paper_2/full_text.pdf>`_
+- `Dag Sverre Seljebotn. "Fast numerical computations with Cython." Proceedings of the 8th Python in Science Conference (SciPy 2009). <https://web.archive.org/web/20240529150721/http://conference.scipy.org.s3-website-us-east-1.amazonaws.com/proceedings/scipy2009/paper_2/full_text.pdf>`_
