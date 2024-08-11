@@ -1,5 +1,6 @@
-.. image:: https://cdn.discordapp.com/emojis/1140027508427857960.webp?size=80&quality=lossless
-    :target: https://cdn.discordapp.com/emojis/1140027508427857960.webp?size=80&quality=lossless
+..
+ .. image:: https://cdn.discordapp.com/emojis/1140027508427857960.webp?size=80&quality=lossless
+ :target: https://cdn.discordapp.com/emojis/1140027508427857960.webp?size=80&quality=lossless
 
 Cython Tutorial: Boosting Python Performance with C
 ===================================================
